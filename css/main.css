@@ -4,4 +4,9 @@ body {
 
 .spacing {
     margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.spacing-lectures {
+    margin-top: 3rem;
 }
